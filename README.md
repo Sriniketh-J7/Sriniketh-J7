@@ -127,7 +127,7 @@
 
 ## 🚀 Featured Projects
 
-### 🚨 SnapFix - Civic Reporting System
+### 🚨 SnapFix - Civic Reporting System(https://github.com/Sriniketh-J7/SnapFix)
 
 Smart civic issue management platform with AI-powered image classification, geolocation tracking, voice reporting, and role-based technician assignment workflows.
 
@@ -135,7 +135,7 @@ Smart civic issue management platform with AI-powered image classification, geol
 
 ---
 
-### 📊 Customer Segmentation Analysis
+### 📊 Customer Segmentation Analysis(https://github.com/Sriniketh-J7/Customer-Segmentation-ML-Project)
 
 Machine learning solution that identifies customer groups using clustering techniques to drive targeted marketing and business insights.
 
@@ -143,7 +143,7 @@ Machine learning solution that identifies customer groups using clustering techn
 
 ---
 
-### 🤖 AI Virtual Interviewer
+### 🤖 AI Virtual Interviewer(https://github.com/Sriniketh-J7/AI-Powered-Virtual-Interviewer)
 
 AI-powered mock interview platform that conducts interactive interviews, evaluates responses, and provides personalized feedback using LLMs and speech technologies.
 
@@ -151,7 +151,7 @@ AI-powered mock interview platform that conducts interactive interviews, evaluat
 
 ---
 
-### 💬 Real-Time Chat Application
+### 💬 Real-Time Chat Application(https://github.com/Sriniketh-J7/chat-app-1)
 
 Real-time messaging application featuring instant communication, online presence tracking, media sharing, and secure user authentication.
 
