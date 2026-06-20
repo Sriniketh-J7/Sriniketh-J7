@@ -124,6 +124,35 @@
 </div>
 
 ---
+## 🚀 Featured Projects
+
+### 🚨 SnapFix- Civic Reporting System
+Developed a full-stack civic issue management platform with AI image classification, real-time issue tracking, geolocation, voice reporting, and role-based technician assignment.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, Cloudinary, Image Classification ML model
+
+---
+
+### 📊 Customer Segmentation Analysis
+Developed a machine learning solution to identify customer groups using clustering techniques, enabling data-driven marketing and customer targeting strategies.
+
+**Tech:** K-means ML Clustering, Python, Numpy, Pandas, EDA, Streamlit, Matplotlib, Streamlit
+
+---
+
+### 🤖 AI Virtual Interviewer
+Created an AI-powered mock interview platform that generates interview questions, analyzes candidate responses, and provides personalized performance feedback using LLMs.
+
+**Tech:** Google Gemini LLM, Google Speech-to-Text, Google Text-to-Speech, Prompt Engineering
+
+---
+
+### 💬 Real-Time Chat Application
+Built a real-time messaging platform with instant communication, user authentication, online presence tracking, and Socket.IO-powered bidirectional messaging.
+
+**Tech:** React, Node.js, Socket.IO, Cloudinary, Vercel
+
+---
 
 ## 🎯 Current Focus
 
