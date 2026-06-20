@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 🚀 Software Developer | AI Enthusiast | Problem Solver
+# 🚀 Software Developer | AIML Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=B.Tech+CSE+(Data+Science)+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -12,31 +12,11 @@
 
 ## 🌟 About Me
 
-<!-- 🎓 B.Tech in Computer Science & Engineering (Data Science) -->
 
-💻 Passionate about Full Stack Development, Backend Engineering, and AI
-
-<!-- 🧠 Solved 350+ LeetCode problems -->
+💻 Passionate about Full Stack Development, Backend Engineering, Machine Learning and AI
 
 🚀 Built multiple end-to-end projects using modern technologies
 
-🌍 Open to Full-Time, Remote, and Relocation Opportunities
-
-📍 Hyderabad, India
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-| Projects | Internship | LeetCode | 
-|----------|------------|----------|
-| 6+ | 1 | 350+ |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -65,6 +45,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Vector_DBs](https://img.shields.io/badge/Vector_Databases-00ACC1?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 
 ### Frontend
 
@@ -86,6 +67,7 @@
 
 ### ☁️ Cloud & DevOps
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -151,7 +133,6 @@
 ✅ System Design Fundamentals
 ✅ AI & Machine Learning
 ✅ Full Stack Applications
-✅ Product-Based Company Preparation
 ```
 
 ---
@@ -166,6 +147,10 @@
 
 <a href="https://github.com/Sriniketh-J7">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <!-- <a href="mailto:jsriniketh777@gmail.com">
