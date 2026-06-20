@@ -124,33 +124,38 @@
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
-### 🚨 SnapFix- Civic Reporting System
-Developed a full-stack civic issue management platform with AI image classification, real-time issue tracking, geolocation, voice reporting, and role-based technician assignment.
+### 🚨 SnapFix - Civic Reporting System
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Cloudinary, Image Classification ML model
+Smart civic issue management platform with AI-powered image classification, geolocation tracking, voice reporting, and role-based technician assignment workflows.
+
+**⚡ Tech Stack:** React.js • Node.js • Express.js • MongoDB • Cloudinary • Machine Learning
 
 ---
 
 ### 📊 Customer Segmentation Analysis
-Developed a machine learning solution to identify customer groups using clustering techniques, enabling data-driven marketing and customer targeting strategies.
 
-**Tech:** K-means ML Clustering, Python, Numpy, Pandas, EDA, Streamlit, Matplotlib, Streamlit
+Machine learning solution that identifies customer groups using clustering techniques to drive targeted marketing and business insights.
+
+**⚡ Tech Stack:** Python • Pandas • NumPy • Scikit-Learn • K-Means Clustering • EDA • Matplotlib • Streamlit
 
 ---
 
 ### 🤖 AI Virtual Interviewer
-Created an AI-powered mock interview platform that generates interview questions, analyzes candidate responses, and provides personalized performance feedback using LLMs.
 
-**Tech:** Google Gemini LLM, Google Speech-to-Text, Google Text-to-Speech, Prompt Engineering
+AI-powered mock interview platform that conducts interactive interviews, evaluates responses, and provides personalized feedback using LLMs and speech technologies.
+
+**⚡ Tech Stack:** Google Gemini • Speech-to-Text • Text-to-Speech • Prompt Engineering • React.js • Node.js
 
 ---
 
 ### 💬 Real-Time Chat Application
-Built a real-time messaging platform with instant communication, user authentication, online presence tracking, and Socket.IO-powered bidirectional messaging.
 
-**Tech:** React, Node.js, Socket.IO, Cloudinary, Vercel
+Real-time messaging application featuring instant communication, online presence tracking, media sharing, and secure user authentication.
+
+**⚡ Tech Stack:** React.js • Node.js • Socket.IO • Cloudinary • Vercel
 
 ---
 
@@ -194,6 +199,6 @@ Built a real-time messaging platform with instant communication, user authentica
 
 ### 💡 "Building solutions, learning continuously, and growing one commit at a time."
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sriniketh-J7&style=for-the-badge)
 
 </div>
